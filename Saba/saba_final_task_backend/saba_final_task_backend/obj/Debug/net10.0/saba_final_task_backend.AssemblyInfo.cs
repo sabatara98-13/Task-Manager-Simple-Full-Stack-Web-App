@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("saba_final_task_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d5136aaf220f8807f5d66595b5b5794d21a6f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a68504744c6c751124f606538d8fdb8d26efa3cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("saba_final_task_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("saba_final_task_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
