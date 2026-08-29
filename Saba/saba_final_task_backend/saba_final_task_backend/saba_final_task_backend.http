@@ -1,0 +1,36 @@
+@baseUrl = http://localhost:5000/api/tasks
+
+GET {{baseUrl}}
+Accept: application/json
+
+###
+
+GET {{baseUrl}}/1
+Accept: application/json
+
+###
+
+POST {{baseUrl}}
+Content-Type: application/json
+
+{
+  "title": "Learn ASP.NET Core",
+  "priority": "High",
+  "isDone": false
+}
+
+###
+
+PUT {{baseUrl}}/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "title": "Complete Web Development Capstone",
+  "priority": "High",
+  "isDone": true
+}
+
+###
+
+DELETE {{baseUrl}}/1

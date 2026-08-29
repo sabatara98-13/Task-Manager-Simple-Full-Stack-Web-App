@@ -1,6 +1,0 @@
-@saba_final_task_backend_HostAddress = http://localhost:5160
-
-GET {{saba_final_task_backend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
