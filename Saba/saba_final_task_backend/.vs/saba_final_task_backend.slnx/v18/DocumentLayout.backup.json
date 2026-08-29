@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\saba_projects\\Task-Manager-Simple-Full-Stack-Web-App\\Saba\\saba_final_task_backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A00E8E-532D-EF17-BC68-507FD7C16FE4}|saba_final_task_backend\\saba_final_task_backend.csproj|d:\\saba_projects\\task-manager-simple-full-stack-web-app\\saba\\saba_final_task_backend\\saba_final_task_backend\\saba_final_task_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48A00E8E-532D-EF17-BC68-507FD7C16FE4}|saba_final_task_backend\\saba_final_task_backend.csproj|solutionrelative:saba_final_task_backend\\saba_final_task_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "saba_final_task_backend",
+              "DocumentMoniker": "D:\\saba_projects\\Task-Manager-Simple-Full-Stack-Web-App\\Saba\\saba_final_task_backend\\saba_final_task_backend\\saba_final_task_backend.csproj",
+              "RelativeDocumentMoniker": "saba_final_task_backend\\saba_final_task_backend.csproj",
+              "ToolTip": "D:\\saba_projects\\Task-Manager-Simple-Full-Stack-Web-App\\Saba\\saba_final_task_backend\\saba_final_task_backend\\saba_final_task_backend.csproj",
+              "RelativeToolTip": "saba_final_task_backend\\saba_final_task_backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-29T22:30:03.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
